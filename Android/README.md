@@ -10,4 +10,6 @@
 * [Shared Preferences](https://github.com/Coder481/SharedPreferences)
 * [RecyclerView](https://github.com/Coder481/RecyclerView)
 * [RecyclerCart](https://github.com/Coder481/RecycleCart)
+* [EcomUser](https://github.com/Coder481/EcomUser/tree/master)
+* [TicTacToe](https://github.com/Coder481/TicTacToe/tree/master)
 * [AlphaCols](https://github.com/Coder481/AlphaCols)
