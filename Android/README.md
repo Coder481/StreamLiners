@@ -13,3 +13,4 @@
 * [EcomUser](https://github.com/Coder481/EcomUser/tree/master)     10 Nov 2020 - 5 Dec 2020
 * [TicTacToe](https://github.com/Coder481/TicTacToe/tree/master)     6 Dec 2020
 * [AlphaCols](https://github.com/Coder481/AlphaCols)     4 Nov 2020
+* [Dice Game](https://github.com/Coder481/DiceGame/tree/master) 18 Dec 2020
