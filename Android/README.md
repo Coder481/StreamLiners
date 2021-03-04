@@ -16,3 +16,4 @@
 * [TicTacToe](https://github.com/Coder481/TicTacToe/tree/master)     6 Dec 2020
 * [Dice Game](https://github.com/Coder481/DiceGame/tree/master) 18 Dec 2020
 * [MyChat](https://github.com/Coder481/MyChat) 29 Dec 2020
+* [MyCalculator](https://github.com/Coder481/MyCalculator/tree/master) 3 Mar 2021
